@@ -1,0 +1,2 @@
+Formulário desenvolvido em HTML | CSS | JavaScript
+Este projeto tem como objetivo, além do desenvolvimento do formulário, fixar alguns conceitos e tags básicas das linguagens a serem utilizadas durante o percurso.
